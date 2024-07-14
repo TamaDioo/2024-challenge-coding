@@ -1,8 +1,9 @@
+// Day 1/366 Coding Challenge 2024
+// https://www.codewars.com/kata/57f780909f7e8e3183000078/java
+
 import java.util.Arrays;
 
 public class Grow1 {
-    // Day 1/366 Coding Challenge 2024
-    //https://www.codewars.com/kata/57f780909f7e8e3183000078/java
     public static void main(String[] args) {
         int[] test = {1, 2, 3, 4};
         System.out.println(grow(test));
